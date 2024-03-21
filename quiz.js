@@ -8,7 +8,6 @@ console.log(input_temp,"degrees fahrenheit is equal to", output_temp, "degrees c
 //Program 2: Grade Calculator
 let grade_percentage = prompt("Enter your grade in percentage.");
 if (grade_percentage >= 90) {
-60
     console.log("Your percentage grade of", grade_percentage, "corresponds to an A");
 }
 else if (89>= grade_percentage >= 80){
